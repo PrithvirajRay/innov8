@@ -1,3 +1,9 @@
-# innov8-backend
+# innov8-backend-instructions
 
-<iframe src="https://pdfjs.link/viewer.html?url=https://drive.google.com/file/d/1DqJtNSvQ9wCD76HIHZ5Sz8Q-AhEQ6Nwa/view?usp=sharing" width="100%" height="500px">
+<div align="center">
+<kbd><img src="./Docs/innov8_Doc (1)-1.png" width=600 ></img></kbd>
+<hr/>
+<kbd><img src="./Docs/innov8_Doc (1)-2.png" width=600 ></img></kbd>
+<hr/>
+<kbd><img src="./Docs/innov8_Doc (1)-3.png" width=600 ></img></kbd>
+</div>
